@@ -1,4 +1,4 @@
 
 # Jogo do Dinossauro:video_game:
 
-Jogo do Dinossauro do Google desenvolvido durante o curso da Digital Inovation One.
+Jogo do Dinossauro do Google desenvolvido durante o curso da Digital Innovation One.
